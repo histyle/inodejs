@@ -1,5 +1,5 @@
 var http = require('http');
-var url = requrire('url');
+var url = require('url');
 
 function onRequest(request,response){
 
